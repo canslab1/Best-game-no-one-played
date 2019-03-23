@@ -1,2 +1,7 @@
-# Best-game-no-one-played
-Integrating Opinion Dynamics and Innovation Diffusion Models to Analyze the ‘Best Game No One Played’ Phenomenon
+# Integrating Opinion Dynamics and Innovation Diffusion Models to Analyze the ‘Best Game No One Played’ Phenomenon
+
+## Abstract
+Opinion dynamics models have a tendency to overemphasize inter-agent communication, while innovation diffusion models tend to overstate the threshold settings of individual agents. To study the diffusion process with new products as well as interactions involving agent attitudes, an opinion dynamics model was combined with an innovation diffusion model in order to simulate a situation in which consumers rely on their social networks when deciding whether or not to accept a controversial product. Four social networks are used to analyze interactions between agent attitudes and individual agent thresholds: scale-free, small world, random, and cellular automata. Agents in the proposed model have both thresholds and attitudes that change over time based on interactions with other agents. Sensitivity analyses using different simulation parameters are used to discuss situations in which consumers are more likely to accept new products. Results indicate that average-of-threshold was the most sensitive parameter for all four social network types, with average-of-attitude and max-opinion-distance moderately sensitive. In simulations involving opinion dynamics diffusion, results from a series of simulation experiments indicate that the proposed model performed well with complex networks in different situations.
+
+## Keywords
+opinion dynamics model, innovation diffusion model, complex network, controversial product, propagation
